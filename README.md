@@ -10,3 +10,5 @@ why this calculator ?
 Made this to learn how to use html table and get to use with some function of javaScript.
 
 HTML CSS JavaScript
+
+link : https://calculatorhtml.netlify.app/
